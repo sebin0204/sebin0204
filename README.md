@@ -50,12 +50,3 @@
 | 취득일 | 자격증 |
 |---|---|
 | 2026.09 | **SQL 개발자 (SQLD)** |
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sebin0204&show_icons=true&theme=default&hide_border=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebin0204&layout=compact&hide_border=true" height="160">
-
-</div>
