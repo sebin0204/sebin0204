@@ -3,6 +3,8 @@ import json, os, sys, urllib.request
 from html import escape
 
 USER = os.environ.get("GH_USER", "sebin0204")
+# 내가 직접 작성하지 않은 언어 (Dual-tales AI 서버는 팀원 코드)
+EXCLUDE_LANGS = {"Python"}
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets")
 QUERY = """query($login:String!){user(login:$login){
   contributionsCollection{totalCommitContributions totalPullRequestContributions totalIssueContributions
@@ -52,6 +54,8 @@ def langs_svg(u):
             continue
         for e in r["languages"]["edges"]:
             n = e["node"]["name"]
+            if n in EXCLUDE_LANGS:
+                continue
             s, col = total.get(n, (0, e["node"]["color"] or "#8b949e"))
             total[n] = (s + e["size"], col)
     top = sorted(total.items(), key=lambda x: -x[1][0])[:6]
