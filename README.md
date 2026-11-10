@@ -34,6 +34,7 @@ Java/SpringBoot 백엔드 공부와 여러 프로젝트를 참여하며 개발 �
 |---|---|---|---|
 | 📚 [**Dual Tales**](https://github.com/sebin0204/Dual-tales) | 다문화 가정을 위한 AI 이중언어 동화 서비스 (GDG SWU Impact Up, 2026.04~05) | 백엔드 전담 — ERD, JWT 인증, AI 서버 연동, Cloud Run 배포 | Spring Boot, MySQL, GCP |
 | 💰 [**Toktory**](https://github.com/sebin0204/2026_TRIPLES_TEAM_2_BE) | AI 가계부 서비스 (대학 연합 TripleS 2026, 2026.01~02) | 가계부 · 목표 · 예산 · 소비 패턴 분석 API | Spring Boot, MySQL, Docker |
+| 📔 [**그때의 나**](https://github.com/sebin0204/2026_GURU2_TEAM8) | 감정을 기록하고 일주일 뒤 회고하는 감정 일기 Android 앱 (SWU GURU2, 2026.01) | Android(프론트엔드) — 아이디어 제안(채택), 감정·회고일기장, 회고 알림 | Kotlin, Room |
 
 <br>
 
