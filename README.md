@@ -56,7 +56,7 @@ Java/SpringBoot 백엔드 공부와 여러 프로젝트를 참여하며 개발 �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebin0204&show_icons=true&theme=default&hide_border=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebin0204&layout=compact&hide_border=true" height="160">
+<img src="./assets/stats.svg" height="160">
+<img src="./assets/top-langs.svg" height="160">
 
 </div>
