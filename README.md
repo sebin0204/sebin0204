@@ -4,6 +4,7 @@
 
 **Spring Boot 기반 백엔드 개발자를 꿈꾸고 있습니다.**
 도메인 설계부터 인증, AI 서버 연동, 클라우드 배포까지 서비스의 흐름 전체를 만드는 걸 좋아해요.
+Java/SpringBoot 백엔드 공부와 여러 프로젝트를 참여하며 개발 역량을 기르고있습니다.
 
 <a href="https://app.notion.com/p/36e5fdee01be83eda17f8169d4529d4d"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
